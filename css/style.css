@@ -1,0 +1,249 @@
+
+
+
+/*Editando-Layout--------------------
+--------------------*/
+
+body{
+    background: url(../IMG/capa.png),
+                url(../IMG/ruido.png),
+                linear-gradient(50deg,#ff4169,#7c26f8);
+    background-attachment: fixed;
+    font-family: Helvetica,arial,sans-serif; 
+}
+
+
+html, body, #home{
+    height: 100%;
+    overflow-x: hidden;
+}
+
+
+/*Editando-barra-de-navegação--------------------
+--------------------*/
+
+nav.transparente{
+    padding: 15px 0;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    color: #fff;
+}
+
+.navbar-dark .navbar-toggler{
+    border-color: #fff;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+    color: #9932cc;
+    border-bottom: 2px solid #9932cc;
+}
+
+.divisor{
+    display: flex;
+    align-self: center;
+    width: 1px;
+    height: 25px;
+    margin: 0 10px;
+    background: #fff;
+}
+
+
+/*fim-barra-de-navegação--------------------
+--------------------*/
+
+
+/*Editando-capa--------------------
+--------------------*/
+
+#caixa{
+   text-align: center;
+}
+
+#home h1{
+    font-weight: 900;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: -0,0.5;
+    margin-bottom: 40px;
+}
+
+.btn-custom-roxo{
+    color: white;
+    text-transform: uppercase;
+    border-radius: 500px;
+    background: #9932cc;
+    margin: 0 15px;
+    transition: background 0.7s, color 0.4s;
+}
+
+.btn-custom-roxo:hover{
+    background: #670f8a;
+    color: #fff;
+}
+
+.btn-custom-branco{
+    text-transform: uppercase;
+    color: white;
+    border-radius: 500px;
+    border: solid 2px white;
+    transition: background 0.7s, color 0.4s;
+}
+
+.btn-custom-branco:hover{
+    color: #9932cc;
+    background: #fff;
+}
+
+
+
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+    h1{
+        font-size: 2em;
+    }
+    
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    h1{
+        font-size: 3em;
+    }
+
+    #recursos{
+        padding-left: 30px;
+    }
+ }
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    h1{
+        font-size: 4em;
+    }
+
+    #recursos{
+        padding-left: 30px;
+    } 
+   
+ }
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    h1{
+        font-size: 4em;
+    }
+    #recursos{
+        padding-left: 30px;
+    }
+ }
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+    h1{
+        font-size: 4em;
+    }
+ }
+
+
+ /*fim-capa--------------------
+--------------------*/
+
+
+
+/*Editando-serviços--------------------
+--------------------*/
+
+ #serviços{
+    padding: 30px 0;
+    background: #fff;
+}
+
+
+ #imagens{
+    margin-bottom: 20px;
+ }
+
+ 
+#serviços h2{
+    font-size: 3em;
+    margin-bottom: 30px;
+}
+
+ h3{
+    font-size: 2em;
+}
+
+
+ #textos h2,h3{
+    color: #9932cc;
+    font-weight: bold;
+}
+
+
+
+/*Editando-recursos--------------------
+--------------------*/
+
+#recursos{
+    padding: 30px 0;
+}
+
+#recursos h2{
+    color:#fff;
+    font-size: 3em;
+    font-weight: 600;
+}
+
+#recursos h3{
+    color: #9bf0e1;
+    font-weight: 600;
+}
+
+#recursos p{
+    color: #fff;
+}
+
+.rotacionar{
+    padding-left: 90px;
+    transform: rotate(30deg);
+    
+}
+
+
+/*Editando-rodapé--------------------
+--------------------*/
+
+footer{
+    background: black;
+    padding: 50px 0 20px 0;
+    position: relative;
+}
+
+footer h4{
+    color: #919496;
+    font-size: 0.8em;
+    text-transform: uppercase;
+}
+
+footer .navbar-nav a{
+    color: #fff;
+    font-size: 0.8em;
+    
+}
+
+footer .navbar-nav a:hover{
+    color: #9bf0e1;
+}
+
+
+footer ul{
+    list-style: none;
+}
+
+footer ul li{
+    float: right;
+    margin: 10px;
+}

@@ -1,4 +1,4 @@
-# Um site ilustrativo baseado no spotify. Explorando linguagens como HTML5, CSS3 e Booststrap. A ideia é ser um começo de um site baseado no spotify e ir aprimorando conforme vou desenvolvendo nos estudos. Futuramente adicionando área de login, interações e etc.
+# Um site ilustrativo baseado no spotify. Explorando linguagens como HTML5, CSS3 e Booststrap. A ideia é um começo de um site baseado no spotify e ir aprimorando conforme vou desenvolvendo nos estudos. Futuramente adicionando área de login, interações e etc.
 
 # Caso queira vizualizar o video que mostre o site completo vou deixar o link para vizualizar aqui em baixo:
 

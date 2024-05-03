@@ -37,7 +37,6 @@ nav.transparente{
 
 .navbar-dark .navbar-nav .nav-link:hover{
     color: #9932cc;
-    border-bottom: 2px solid #9932cc;
 }
 
 .divisor{
@@ -96,6 +95,21 @@ nav.transparente{
     background: #fff;
 }
 
+
+
+/*editando pagina de login*/
+
+
+.caixa-login{
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 5px;
+    max-width: 500px;
+    padding: 1rem;
+}
+
+.caixa-login h3, label{
+    color: #fff;
+}
 
 
 

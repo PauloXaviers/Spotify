@@ -1,7 +1,10 @@
-# Um site ilustrativo baseado no spotify. Explorando linguagens como HTML5, CSS3 e Booststrap. A ideia é um começo de um site baseado no spotify e ir aprimorando conforme vou desenvolvendo nos estudos. Futuramente adicionando área de login, interações e etc.
-![Captura de tela 2024-04-30 095103](https://github.com/PauloXaviers/Spotify/assets/158355760/06263b63-014c-46ea-9954-9f10575b4cbf)
+# Um site ilustrativo baseado no spotify. Explorando linguagens como HTML5, CSS3 e Booststrap. A ideia é um começo de um site baseado no spotify e ir aprimorando conforme vou desenvolvendo nos estudos. Futuramente interações e etc.
 
 
+
+![Captura de tela 2024-05-03 083957](https://github.com/PauloXaviers/Spotify/assets/158355760/ebb306b5-3131-4956-a628-4130f8ac0358)
+
+![Captura de tela 2024-05-03 083941](https://github.com/PauloXaviers/Spotify/assets/158355760/a0ae3e5e-cebd-4a37-9304-9efb8fd2d749)
 
 # Caso queira vizualizar o video que mostre o site completo vou deixar o link para vizualizar aqui em baixo:
 
